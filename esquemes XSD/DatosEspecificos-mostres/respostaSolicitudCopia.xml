@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<respostaSolicitudCopia xmlns="http://www.aoc.cat/ancert/copia-electronica">
+	<peticioSolicitudCopia>
+		<codiNotari>000000000</codiNotari>
+		<codiNotaria>String</codiNotaria>
+		<numeroProtocol>123456</numeroProtocol>
+		<numeroBisProtocol>123</numeroBisProtocol>
+		<tipusCopia>SIMPLE</tipusCopia>
+		<dataAutoritzacio>1967-08-13</dataAutoritzacio>
+	</peticioSolicitudCopia>
+	<documentacio>
+		<document>
+			<data>1967-08-13</data>
+			<identificador>ID_1</identificador>
+			<nom>String</nom>
+			<descripcio>String</descripcio>
+			<grandaria>0</grandaria>
+			<fitxer>UjBsR09EbGhjZ0dTQUxNQUFBUUNBRU1tQ1p0dU1GUXhEUzhi</fitxer>
+			<signatura>UjBsR09EbGhjZ0dTQUxNQUFBUUNBRU1tQ1p0dU1GUXhEUzhi</signatura>
+		</document>
+	</documentacio>
+	<resultat>
+		<codiResultat>String</codiResultat>
+		<descripcio>String</descripcio>
+	</resultat>
+</respostaSolicitudCopia>
